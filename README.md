@@ -191,7 +191,7 @@ addEventListener(
 
 ### 原作者项目地址：https://github.com/mixool/xrayku
 
-#### 交流群[https://t.me/iflugp](https://t.me/iflugp)
+### 交流群[https://t.me/iflugp](https://t.me/iflugp)
 
 # 鸣谢
 
